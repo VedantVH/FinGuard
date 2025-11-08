@@ -1,0 +1,29 @@
+topic,region,source_name,url,source_type,credibility_score
+general,,IMF Explainers,https://www.imf.org/en/Topics,international,0.8
+general,,World Bank Finance,https://www.worldbank.org/en/topic/finance,international,0.8
+scam,US,SEC Investor Alerts & Bulletins,https://www.sec.gov/investor/alerts,regulator,0.95
+scam,US,FINRA Scam Alerts,https://www.finra.org/investors/insights,regulator,0.95
+scam,US,FTC Consumer Advice,https://consumer.ftc.gov/money-and-credit,regulator,0.9
+scam,UK,FCA ScamSmart,https://www.fca.org.uk/scamsmart,regulator,0.95
+scam,EU,ESMA Investor Corner,https://www.esma.europa.eu/investor-corner,regulator,0.9
+crypto,US,SEC Crypto Assets Investor Info,https://www.investor.gov/introduction-investing/investing-basics/glossary/crypto-assets,regulator,0.9
+crypto,US,CFPB Virtual Currencies,https://www.consumerfinance.gov/ask-cfpb/virtual-currency/,regulator,0.85
+crypto,EU,ESMA Crypto Warnings,https://www.esma.europa.eu/search/site?keys=crypto%20warning,regulator,0.85
+inflation,US,BLS CPI Overview,https://www.bls.gov/cpi/,gov,0.9
+inflation,EU,Eurostat Inflation,https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Inflation_in_the_Euro_area,gov,0.85
+tax,US,IRS Tax Scams,https://www.irs.gov/newsroom/tax-scams-consumer-alerts,gov,0.9
+loan,US,CFPB Loans & Credit,https://www.consumerfinance.gov/consumer-tools/loans-and-credit/,regulator,0.9
+insurance,US,NAIC Consumer,https://content.naic.org/consumer.htm,regulator,0.85
+mutual_funds,US,SEC Mutual Funds,https://www.sec.gov/investor/pubs/inwsmf.htm,regulator,0.9
+etf,US,SEC ETFs,https://www.sec.gov/answers/etf.htm,regulator,0.9
+forex,US,CFTC Forex Fraud,https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/forexfraud.html,regulator,0.9
+options,US,SEC Options Basics,https://www.sec.gov/oiea/investor-alerts-bulletins/ib_options,regulator,0.9
+ponzi,US,SEC Ponzi Schemes,https://www.sec.gov/investor/pubs/ponzi.htm,regulator,0.95
+defi,US,SEC DeFi Alerts,https://www.sec.gov/news/statement/lee-statement-defi,regulator,0.8
+general,UK,MoneyHelper UK,https://www.moneyhelper.org.uk/en,gov,0.8
+general,IN,RBI Consumer Awareness,https://www.rbi.org.in/commonman/English/Scripts/Notification.aspx,regulator,0.85
+scam,IN,RBI Fraud Awareness,https://www.rbi.org.in/commonman/English/Scripts/FinancialEducation.aspx,regulator,0.85
+scam,IN,SEBI Investor Alerts,https://investor.sebi.gov.in/investor-alerts-mobilization.html,regulator,0.95
+general,IN,SEBI Investor Education,https://investor.sebi.gov.in/,regulator,0.9
+general,IN,BSE Investor Education,https://www.bseindia.com/,exchange,0.85
+general,IN,RBI Cautions,https://www.rbi.org.in/commonman/english/scripts/rbicautions.aspx,regulator,0.9
