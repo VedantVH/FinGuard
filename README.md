@@ -1,4 +1,4 @@
-🛡️ FinGuard AI – Financial Misinformation Detection
+🛡️ FINGUARD AI – FINANCIAL MISINFORMATION DETECTION
 
 FinGuard AI is an AI-powered assistant that detects financial misinformation and scams in real-time.
 It helps users verify WhatsApp messages related to investments, IPOs, cryptocurrencies, and stock market rumors by classifying them as Scam 🚨, Warning ⚠️, or Legit ✅.
